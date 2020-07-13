@@ -1,4 +1,4 @@
-# This is still a work in progress
+# Booking with React + Redux
 
 For now, I would ask to please consider the technical aspects involved, like:
 
